@@ -9,7 +9,15 @@
 #include <iterator>
 #include <iomanip>
 #include <Windows.h>
-#include "Header.h"
+#include "Hsec.h"
+#include "Hzminap.h"
+#include "Hremovee.h"
+#include "Hstaff.h"
+#include "Hclear.h"
+#include "Hvivid.h"
+#include "Hreklama.h"
+#include "Hpryamoiefir.h"
+
 
 using namespace std;
  
